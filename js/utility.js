@@ -13,16 +13,6 @@
 // document.getElementById('b3').addEventListener('click', handleClick);
 // document.getElementById('b4').addEventListener('click', handleClick);
 
-    // element.target.removeEventListener('click', handleClick);
-
-
-    // if (selectedSeats >= 4) {
-    //     alert('You can only buy up to 4 seats at a time.');
-    //     return;
-    // }
-
-
-
 
 
 
